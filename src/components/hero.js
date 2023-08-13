@@ -24,7 +24,7 @@ export default function Hero() {
                         fontWeight={'bold'}
                         lineHeight={1.2}
                         fontSize={useBreakpointValue({ base: '3xl', md: '5xl' })}>
-                        Mejores productos tecnologicos 2023
+                        Mejores productos tecnológicos 2023
                     </Text>
 
                 </Stack>
